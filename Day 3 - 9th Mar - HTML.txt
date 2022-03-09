@@ -1,0 +1,3 @@
+Create an application form to apply for a job by filling all personal details.
+You may give all the instructions to fill the form in a PDF which the users can use as a guidance.
+Add title. Heading and appropriate techniques to make your page look like a professional application form.
