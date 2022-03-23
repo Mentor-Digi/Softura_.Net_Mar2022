@@ -1,0 +1,79 @@
+<script>
+        document.write("Welcome back")
+
+    </script>
+__________________________________________________________
+<body>
+    <script>
+        var n1 = 25;
+        var n2 = 10;
+        var x = "<br/>";
+
+        document.write("n1+n2 = ");
+        res = n1 + n2;
+        document.write(res);
+        document.write(x);
+        document.write("n1-n2 = ");
+        res = n1 - n2;
+        document.write(res);
+        document.write(x);
+        document.write("n1*n2 = ");
+        res = n1 * n2;
+        document.write(res);
+        document.write(x);
+        document.write("n1/n2 = ");
+        res = n1 / n2;
+        document.write(res);
+        document.write(x);
+
+        document.write("n1==n2 =>");
+        res = (n1 == n2);
+        document.write(res);
+        document.write(x);
+
+        document.write("n1 < n2 =>");
+        res = (n1 < n2);
+        document.write(res);
+        document.write(x);
+
+        document.write("n1>n2 =>");
+        res = (n1 > n2);
+        document.write(res);
+        document.write(x);
+
+        document.write("n1!=n2 =>");
+        res = (n1 != n2);
+        document.write(res);
+        document.write(x);
+
+        document.write("n1>=n2 =>");
+        res = (n1 >= n2);
+        document.write(res);
+        document.write(x);
+    </script>
+</body>
+</html>
+_______________________________________________________
+    <script>
+        var age = 20;
+        if (age > 18)
+            document.write("<b>Eligible to apply for Driving License</b>");
+        var age2 = 12;
+        if (age2 > 18)
+            document.write("Can be employed");
+        else
+            document.write("Can not be employed");
+    </script>
+___________________________________________________________
+<script>
+        var age = 5;
+        if (age < 15)
+            document.write("Paediatrician");
+        else if (age >= 15 && age <= 20)
+            document.write("Adoloscent");
+        else if (age > 20 && age <= 60)
+            document.write("General");
+        else
+            document.write("Gereatirc");
+
+    </script>
